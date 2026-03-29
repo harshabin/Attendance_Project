@@ -1,0 +1,4 @@
+1.Introduction
+2.Software Installation(Xampp,Mariadb)
+3.Brief about the Attendance Project.
+4.Installation
